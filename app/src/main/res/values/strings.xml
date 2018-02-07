@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MvpExample</string>
+    <string name="oops_something_went_wrong">Oops, something went wrong</string>
+    <string name="profile_picture">Profile picture</string>
+</resources>
